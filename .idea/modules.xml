@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebSocketsSpring.iml" filepath="$PROJECT_DIR$/.idea/modules/WebSocketsSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebSocketsSpring_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WebSocketsSpring_main.iml" group="WebSocketsSpring" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebSocketsSpring_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WebSocketsSpring_test.iml" group="WebSocketsSpring" />
+    </modules>
+  </component>
+</project>
